@@ -40,13 +40,8 @@ const fetchData= async(config)=>{
  
 };
 
-
-
-
-
- 
-
 //selection//
+
 const postsElement= document.querySelector('.posts');
 
 const loadAllData= async()=>{
